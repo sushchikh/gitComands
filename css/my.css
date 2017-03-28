@@ -6,3 +6,11 @@ body{
 	font-family: roboto;
 	font-weight: 100;
 }
+
+#main_commands li{
+	color: #333;
+}
+#main_commands i{
+	color: #000;
+	font-weight: 400;
+}
