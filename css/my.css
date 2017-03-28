@@ -8,9 +8,16 @@ body{
 }
 
 #main_commands li{
+	margin-top: 10px;
 	color: #333;
 }
 #main_commands i{
+	font-style: normal;
 	color: #000;
+	font-weight: 300;
+}
+
+.offen{
 	font-weight: 400;
+	text-decoration: underline;
 }
